@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1512460537 source:c:\users\nguye\desktop\sudokusolve\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1512457112 source:c:\users\nguye\desktop\sudokusolve\src\videocapture.cpp
+	"VideoCapture.h"
+
+1512457112 c:\users\nguye\desktop\sudokusolve\include\videocapture.h
+
